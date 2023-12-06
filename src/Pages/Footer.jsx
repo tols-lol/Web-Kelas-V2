@@ -1,4 +1,4 @@
-import Rating from "../components/Rating"
+nimport Rating from "../components/Rating"
 
 const Footer = () => {
 	return (
@@ -35,7 +35,7 @@ const Footer = () => {
 							<h2 class="mb-4 text-sm font-semibold uppercase text-white">Follow us</h2>
 							<ul class="text-gray-400 dark:text-gray-400 font-medium">
 								<li class="mb-2">
-									<a href="https://www.instagram.com/acetkjthree/?hl=id" class="hover:underline ">
+									<a href="https://www.instagram.com/ibl_y/?hl=id" class="hover:underline ">
 										Instagram
 									</a>
 								</li>
