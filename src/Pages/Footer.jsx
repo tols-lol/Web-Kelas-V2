@@ -25,8 +25,8 @@ const Footer = () => {
 									</a>
 								</li>
 								<li>
-									<a href="https://www.instagram.com/x_artm_/?hl=id" class="hover:underline">
-										X ARTM
+									<a href="https://www.instagram.com/x_atrm_/?hl=id" class="hover:underline">
+										X ATRM
 									</a>
 								</li>
 							</ul>
