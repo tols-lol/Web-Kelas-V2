@@ -2,7 +2,7 @@
 const BoxOldWeb = () => {
 	return (
 		<div id="BoxOldWeb">
-			<a href="wa.me/6283188140830">
+			<a href="https://wa.me/6283188140830">
 				<div className="flex justify-between">
 					<img src="/link.png" alt="" className="w-auto h-6" />
 					<img src="/next.png" alt="" className="h-3 w-3" />
