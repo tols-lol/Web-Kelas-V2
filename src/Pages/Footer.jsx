@@ -40,7 +40,7 @@ const Footer = () => {
 									</a>
 								</li>
 								<li>
-									<a href="wa.me/6283188140830" class="hover:underline">
+									<a href="https://wa.me/6283188140830" class="hover:underline">
 										Whatsapp
 									</a>
 								</li>
