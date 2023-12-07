@@ -1,4 +1,4 @@
-const Kamis = () => {
+const Sabtu = () => {
 	return (
 		<>
 			<div
@@ -41,4 +41,4 @@ const Kamis = () => {
 	)
 }
 
-export default Kamis
+export default Sabtu
